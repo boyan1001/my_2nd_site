@@ -1,0 +1,30 @@
+[[main]]
+name = "文章"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+name = "標籤"
+pageRef = "tags"
+weight = 20
+
+[[main]]
+name = "關於"
+pageRef = "about"
+weight = 30
+
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/boyan1001"
+weight = 40
+
+[[main]]
+identifier = "linkedin"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/cby931001/"
+weight = 50
+
+
+[[footer]]
+none = "none"

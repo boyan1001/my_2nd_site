@@ -1,0 +1,12 @@
+defaultContentLanguage = "zh-tw"
+enableRobotsTXT = true
+
+category = "categories"
+tag = "tags"
+summaryLength = 30
+
+[pagination]
+    pagerSize = 10
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
