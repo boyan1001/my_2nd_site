@@ -1,6 +1,6 @@
 defaultContentLanguage = "zh-tw"
 enableRobotsTXT = true
-
+baseURL = "https://boyan1001.github.io/"
 category = "categories"
 tag = "tags"
 summaryLength = 30

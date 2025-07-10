@@ -3,14 +3,14 @@ languageCode = "zh-tw"
 languageName = "中文"
 weight = 1
 title = "Toast Coding"
+logo = "toast_icon.png"
+copyright = "Toast Chen, CC-BY-SA"
 
 [params]
 displayName = "中文"
 isoCode = "zh-tw"
 rtl = false
 dateFormat = "2006年1月2日"
-logo = "toast_icon.png"
-secondaryLogo = "toast_icon.png"
 description = "This is a blog of Toast"
 
 ["params.author"]
