@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boyan1001.github.io/my_2nd_site/sitemap.xml
